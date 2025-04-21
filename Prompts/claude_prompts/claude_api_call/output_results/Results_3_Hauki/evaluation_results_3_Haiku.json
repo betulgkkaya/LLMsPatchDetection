@@ -1,0 +1,66 @@
+{
+    "std_cls_results_3_Haiku.json": {
+        "accuracy": 0.6633941093969145,
+        "precision": 0.7983978638184246,
+        "recall": 0.5124250214224507,
+        "f1_score": 0.6242171189979123,
+        "confusion_matrix": [
+            [
+                821,
+                151
+            ],
+            [
+                569,
+                598
+            ]
+        ]
+    },
+    "few_shot_results_3_Haiku.json": {
+        "accuracy": 0.6746143057503506,
+        "precision": 0.6508648302370276,
+        "recall": 0.8706083976006855,
+        "f1_score": 0.7448680351906158,
+        "confusion_matrix": [
+            [
+                427,
+                545
+            ],
+            [
+                151,
+                1016
+            ]
+        ]
+    },
+    "cot_results_3_Haiku.json": {
+        "accuracy": 0.5970079476390837,
+        "precision": 0.5757575757575758,
+        "recall": 0.9931448157669237,
+        "f1_score": 0.7289308176100628,
+        "confusion_matrix": [
+            [
+                118,
+                854
+            ],
+            [
+                8,
+                1159
+            ]
+        ]
+    },
+    "semantic_code_results_3_Haiku.json": {
+        "accuracy": 0.5184665731650304,
+        "precision": 0.7729083665338645,
+        "recall": 0.1662382176520994,
+        "f1_score": 0.2736248236953456,
+        "confusion_matrix": [
+            [
+                915,
+                57
+            ],
+            [
+                973,
+                194
+            ]
+        ]
+    }
+}
