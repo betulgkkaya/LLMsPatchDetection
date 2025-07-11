@@ -6,14 +6,7 @@ This repository contains the implementation and prompt templates described in th
 *Betul Gokkaya*  
 Presented at the *2025 7th International Congress on Human-Computer Interaction, Optimization and Robotic Applications (ICHORA)*
 
-@inproceedings{gokkaya2025leveraging,
-  title={Leveraging Large Language Models for Security Patch Detection and CWE Classification},
-  author={Gokkaya, Betul},
-  booktitle={2025 7th International Congress on Human-Computer Interaction, Optimization and Robotic Applications (ICHORA)},
-  pages={1--10},
-  year={2025},
-  organization={IEEE}
-}
+
 ---
 
 ## 🔍 Overview
